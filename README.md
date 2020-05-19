@@ -1,4 +1,4 @@
-# amapp - Anaesthetics and Medicine App
+# amapp - anaesthetics and medicine app
 
 [amapp.now.sh](https://amapp.now.sh/)
 
