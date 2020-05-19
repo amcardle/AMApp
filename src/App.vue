@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <header>
-            <h1 style="display: inline;">AMApp</h1>
+            <h1 style="display: inline;">amapp</h1>
 
             <a href="https://amapp-git-beta.andrewmcardle1.now.sh/">β</a>
             <nav>
