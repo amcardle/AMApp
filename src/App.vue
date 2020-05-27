@@ -7,6 +7,7 @@
             <nav>
                 <router-link to="/">Home</router-link> |
                 <router-link to="/about">About</router-link> |
+                <router-link to="/stewart">Stewart</router-link> |
                 <a href="https://github.com/amcardle/AMApp">GitHub</a>
             </nav>
         </header>
