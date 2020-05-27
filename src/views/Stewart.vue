@@ -3,19 +3,19 @@
         <h3>Stewart Calculator</h3>
         <form id="StewartCalc">
             Base Excess meq/L
-            <input type="text" class="form-control" v-model="base_excess" />
+            <input type="number" class="form-control" v-model="base_excess" />
             <br />
             Na meq/L
-            <input type="text" class="form-control" v-model="Na" />
+            <input type="number" class="form-control" v-model="Na" />
             <br />
             Cl meq/L
-            <input type="text" class="form-control" v-model="Cl" />
+            <input type="number" class="form-control" v-model="Cl" />
             <br />
             Lactate meq/L
-            <input type="text" class="form-control" v-model="lactate" />
+            <input type="number" class="form-control" v-model="lactate" />
             <br />
             Albumin g/L
-            <input type="text" class="form-control" v-model="albumin" />
+            <input type="number" class="form-control" v-model="albumin" />
             <br />
             Na Cl Effect = {{ parseFloat(Na) - parseFloat(Cl) - 35 }} meq/L
             <br />
