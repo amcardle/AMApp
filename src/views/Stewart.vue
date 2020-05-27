@@ -30,6 +30,7 @@
                     (1 - parseFloat(lactate)) -
                     0.25 * (42 - parseFloat(albumin))
             }}
+            meq/L
         </form>
     </div>
 </template>
